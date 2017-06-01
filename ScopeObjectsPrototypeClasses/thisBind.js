@@ -1,3 +1,6 @@
+//.bind
+
+
 function talk(){
 	console.log(this.sound)
 }
@@ -36,3 +39,6 @@ let cat ={
 
 cat.speak()//meow
 cat.catDog()//bark
+
+
+

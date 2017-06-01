@@ -1,3 +1,10 @@
+//.setPrototypeOf
+//.__proto__
+//.prototype
+
+
+
+
 //prototypes inheratince gives a bad mental picture 
 //a better way to think is prototype deligation
 
@@ -38,3 +45,7 @@ var myCat = new animal("meow")
 
 console.log(myCat)//animal { sound: 'meow' }
 console.log(myCat.__proto__)//animal { alive: 'I am alive' }
+
+
+
+

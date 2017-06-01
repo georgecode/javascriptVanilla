@@ -1,6 +1,13 @@
+// new (key word)
+// object constructor (example)
+// arguments (key word)
+// .prototype
+// .apply
 
 
-// //this is how a class works behind the scenes in es 6 THESE EXAMPLES ARE THE OLDSCHOOL WAY
+
+
+//this is how a class works behind the scenes in es 6 THESE EXAMPLES ARE THE OLDSCHOOL WAY
 
 //This is an object constructor
 function Person(saying){
