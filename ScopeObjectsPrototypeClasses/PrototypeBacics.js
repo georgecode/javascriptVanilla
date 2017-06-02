@@ -1,5 +1,5 @@
 //.setPrototypeOf
-
+// in real life this is slow as shit and you should never use it 
 
 function talk(){
 	
