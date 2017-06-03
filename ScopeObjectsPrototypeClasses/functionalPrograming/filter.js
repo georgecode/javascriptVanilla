@@ -1,5 +1,6 @@
 //.filter
 //It returns only what you ask for
+// a true or false value
 
 var animals = [
 { name:'spark', type:'dog' },
