@@ -1,0 +1,14 @@
+{
+  "name": "advanced-reduce-for-parsing-a-text-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reduceAdvanced.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "george",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
